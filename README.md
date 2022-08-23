@@ -2,7 +2,7 @@
 
 Description:
 
-Demo ios app that allows user to keep track of employees in their system
+Demo ios app that allows user to keep track of employees in their system. Created using Xcode and SwiftUI
 
 Functionality: 
 
